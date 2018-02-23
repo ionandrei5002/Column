@@ -5,6 +5,7 @@
 
 #include "column.h"
 #include "operators.h"
+#include "value.h"
 
 using namespace std;
 
